@@ -23,10 +23,8 @@ import android.os.Bundle;
 import android.provider.MediaStore;
 import android.view.View;
 import android.widget.Toast;
-
 import com.google.android.material.snackbar.Snackbar;
 import com.tufanakcay.artbook.databinding.ActivityDetailsBinding;
-
 import java.io.ByteArrayOutputStream;
 import java.io.IOException;
 
